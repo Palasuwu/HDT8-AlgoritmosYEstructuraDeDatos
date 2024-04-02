@@ -20,10 +20,10 @@ El programa lee los datos de los pacientes desde un archivo de texto (`pacientes
 
 ## Ejemplo de archivo pacientes.txt
 
-Juan Perez, fractura de pierna, C
-Maria Ramirez, apendicitis, A
-Lorenzo Toledo, chikunguya, E
-Carmen Sarmientos, dolores de parto, B
+- Juan Perez, fractura de pierna, C
+- Maria Ramirez, apendicitis, A
+- Lorenzo Toledo, chikunguya, E
+- Carmen Sarmientos, dolores de parto, B
 
 ## Salida del programa 
 
