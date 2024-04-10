@@ -31,4 +31,4 @@ Se adjunta imagen de la salida del programa utilizando el ejemplo del archivo
 
 ![Screenshot 2024-04-01 at 8 37 10 PM](https://github.com/Palasuwu/HDT8-AlgoritmosYEstructuraDeDatos/assets/134471477/c6a50fa1-ec6d-420e-bd52-3f095a52f949)
 
-Notas: En la rama Main se encuentra la version del programa que NO contiene Java Collection Framework para el PriorityQueue , esta version se encontrara en otra rama del repositorio: 
+Notas: En la rama Main se encuentra la version del programa que NO contiene Java Collection Framework para el PriorityQueue , esta version se encontrara en otra rama del repositorio , llamada Java Framework Collection . 
