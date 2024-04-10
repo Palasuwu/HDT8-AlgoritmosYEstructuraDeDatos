@@ -3,7 +3,7 @@ import java.util.PriorityQueue;
 import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
-
+// Cambiar el pathname en new file para asi poder leer "pacientes.txt"
 public class SistemaAtencionEmergencias {
     public static void main(String[] args) {
         PriorityQueue<Paciente> colaEmergencias = new PriorityQueue<>();
